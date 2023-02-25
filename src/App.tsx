@@ -1,3 +1,7 @@
 export function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <h2>Home</h2>
+    </div>
+  );
 }
